@@ -1,0 +1,14 @@
+# build artifacts
+build/
+*.raw
+*.log
+*.out
+*.tmp
+
+# ngspice / xschem junk
+*.save
+*.swp
+*.bak
+
+# editor
+.vscode/
